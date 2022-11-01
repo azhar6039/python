@@ -1,0 +1,10 @@
+azhar
+run
+check
+file
+run
+show
+sh
+file
+red
+two
